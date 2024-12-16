@@ -1,0 +1,13 @@
+{
+  "name": "RISC-V DM JTAG Analyzer",
+  "apiVersion": "1.0.0",
+  "author": "Marek Kraus",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "RISC-V DM JTAG Analyzer": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
